@@ -1,2 +1,2 @@
-aiogram
-sqlite3
+aiogram==2.21
+python-dotenv==0.19.2
